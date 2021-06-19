@@ -4,7 +4,7 @@
 ## Description : Very simple xfce4-genmon-plugin script to show country name/initials, city name along with the respective counttry flag and IP adress in the tooltip. 
 #####################################################################################################################################################
 
-## Get Country and City Infod
+## Get Country and City Info
 cc=$(curl -s ifconfig.co/country);
 ccc=$(curl -s ifconfig.co/city);
 
