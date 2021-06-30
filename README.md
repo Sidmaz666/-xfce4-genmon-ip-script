@@ -1,4 +1,4 @@
-[!preview](https://raw.githubusercontent.com/Sidmaz666/-xfce4-genmon-ip-script/main/preview.png)
+[](https://raw.githubusercontent.com/Sidmaz666/-xfce4-genmon-ip-script/main/preview.png)
 ## Description
 A Very simple xfce4-genmon-plugin script to show country name/initials, city name along with the respective counttry flag and IP address in the tooltip. I didn't found any other script that will help me so I made my own, it's not fancy, nor elegant code but I tried to be minimal, I hope it helps someone.
 ## Requirments
